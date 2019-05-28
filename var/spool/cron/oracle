@@ -1,0 +1,3 @@
+47 1 * * 7 /home/oracle/dev_to_standby.sh >> /home/oracle/dev_to_standby.log
+47 6 * * 7 /home/oracle/dev_to_read_write.sh >> /home/oracle/dev_to_read_write.log
+47 7 * * 7 /home/oracle/del_arch.sh >> /home/oracle/del_arch.log

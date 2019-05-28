@@ -1,0 +1,3 @@
+MAILTO=""
+*/30 * * * * /usr/sbin/ntpdate -bs ntp.eltc.ru
+
